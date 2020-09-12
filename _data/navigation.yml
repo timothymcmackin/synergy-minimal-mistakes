@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Sale horses"
-    url: /sale/
   - title: "Services"
     url: /services/
   - title: "Facilities"
     url: /facilities/
+  - title: "Sale horses"
+    url: /sale/
   - title: "Meet us"
     url: /us/
