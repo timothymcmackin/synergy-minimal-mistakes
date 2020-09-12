@@ -246,6 +246,20 @@
   .archive__item-title {
     margin-bottom: 0;
   }
+
+  a.archive__item-overlay-link {
+    position: static;
+  }
+
+  .archive__item-overlay {
+    margin-bottom: 0;
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    position: absolute;
+    bottom: 10px;
+    left: 16px;
+    z-index: 999;
+  }
 }
 
 .feature__item {
