@@ -245,6 +245,15 @@ body {
   }
 }
 
+.page__hero-overlay_text {
+  color: #fff;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+  position: absolute;
+  bottom: 10px;
+  left: 16px;
+  z-index: 999;
+}
+
 /*
    Social sharing
    ========================================================================== */
