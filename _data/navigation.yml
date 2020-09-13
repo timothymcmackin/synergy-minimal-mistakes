@@ -4,7 +4,7 @@ main:
     url: /services/
   - title: "Facilities"
     url: /facilities/
-  - title: "Sale horses"
+  - title: "Horses for sale"
     url: /sale/
   - title: "Meet us"
     url: /us/
