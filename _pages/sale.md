@@ -2,7 +2,10 @@
 title: Horses for sale
 permalink: /sale
 layout: single
-classes: wide
+# classes: wide
+# sidebar:
+#   - title: For sale
+#     nav: sidebar-sale
 gallery_william:
   - url: /assets/images/shutterstock_453308077.jpg
     image_path: /assets/images/shutterstock_453308077_th.jpg

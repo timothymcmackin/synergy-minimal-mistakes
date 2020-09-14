@@ -8,3 +8,10 @@ main:
     url: /sale
   - title: "Meet us"
     url: /us
+
+sidebar-sale:
+  - children:
+    - title: William
+      url: '#william'
+    - title: James
+      url: '#james'
