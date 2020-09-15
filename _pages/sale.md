@@ -82,7 +82,7 @@ gallery_james:
 
 <div class="flex-container">
 <div class="flex-item-video">
-<iframe width="280" height="157" src="https://www.youtube.com/embed/R6Ul3REh9RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/Kqw5P_7R3ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="flex-item-text">
 <p>
@@ -99,7 +99,7 @@ He loves riding and is great with riders who are trying to build their confidenc
 
 <div class="flex-container">
 <div class="flex-item-video">
-<iframe width="280" height="157" src="https://www.youtube.com/embed/R6Ul3REh9RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/Kqw5P_7R3ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="flex-item-text">
 <p>
